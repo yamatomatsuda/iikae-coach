@@ -1,0 +1,7 @@
+{
+  "name": "iikae-skills",
+  "version": "1.0.0",
+  "description": "職場のメール・チャット・発言を感じの良い言い方に直す日本語スキル集（iikae-coach / kotoba-check）",
+  "license": "MIT",
+  "keywords": ["japanese", "communication", "rewrite", "言い換え", "言葉遣い"]
+}

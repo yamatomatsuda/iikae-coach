@@ -1,0 +1,14 @@
+{
+  "name": "iikae-skills",
+  "owner": {
+    "name": "yamatomatsuda"
+  },
+  "plugins": [
+    {
+      "name": "iikae-skills",
+      "source": "./",
+      "description": "職場のメール・チャット・発言を感じの良い言い方に直す日本語スキル集（iikae-coach / kotoba-check）",
+      "version": "1.0.0"
+    }
+  ]
+}
